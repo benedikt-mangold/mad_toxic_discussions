@@ -4,4 +4,4 @@ The results in the paper have been obtained using the Llama 3.1 model with 405B 
 
 # Content
 
-Run `run_experiment.ipynb` to reproduce results. You need want to connect to an available API endpoint where you serve the LLama 3.1 model with 405B parameters to reproduce results or extend.
+Run `run_experiment.ipynb` to reproduce results. You need to connect to an available API endpoint where you serve the LLama 3.1 model with 405B parameters to reproduce results or extend.
